@@ -1,0 +1,4 @@
+role_arn = {
+    development = "arn:aws:iam::123456789012:role/TFRole"
+    production  = "arn:aws:iam::123456789013:role/TFRole"
+}
